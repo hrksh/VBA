@@ -1,5 +1,5 @@
-Attribute VB_Name = "Module1"
 Option Explicit
+
 Const wsnameMem As String = "メンバ"
 Const wsnameCls As String = "クラス"
 Const errMsg_nosheetname As String = "シートが存在しません。"
